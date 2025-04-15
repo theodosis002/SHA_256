@@ -68,3 +68,5 @@ This project involves the design and implementation of the Secure Hash Algorithm
 `theodosissaaefergtrgrtyhtyhytht5t45y56y4rrrrrrr...`
 
 **Output (SHA-256):**  
+`68e969ff ec35a7c6 57f3dca8 beacf204
+b1fecffe eb0cb287 aa73b68a e17dfd3d`
