@@ -1,6 +1,3 @@
-# Save the provided README content into a markdown (.md) file
-
-readme_content = """
 # SHA-256 Hardware Implementation – VLSI III Project
 
 ## 📚 Overview
@@ -65,9 +62,6 @@ This project involves the design and implementation of the Secure Hash Algorithm
 ### SHA-256 Compute
 - Registers `a` through `h` initialized in various modes (previous hash, constants, or internal values).
 - Final hash calculated by adding processed values to the initial hash.
-
----
-
 ## 🧪 Example Input & Output
 
 **Input:**  
