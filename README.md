@@ -62,11 +62,3 @@ This project involves the design and implementation of the Secure Hash Algorithm
 ### SHA-256 Compute
 - Registers `a` through `h` initialized in various modes (previous hash, constants, or internal values).
 - Final hash calculated by adding processed values to the initial hash.
-## 🧪 Example Input & Output
-
-**Input:**  
-`theodosissaaefergtrgrtyhtyhytht5t45y56y4rrrrrrr...`
-
-**Output (SHA-256):**  
-`68e969ff ec35a7c6 57f3dca8 beacf204
-b1fecffe eb0cb287 aa73b68a e17dfd3d`
