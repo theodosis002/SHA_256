@@ -8,9 +8,9 @@ This project involves the design and implementation of the Secure Hash Algorithm
 
 ## 🧑‍💻 Team
 
-**Group 09 – University of Patras**  
-- Μάϊς Μυριάμ – 1083745  
-- Μπουρτσουκλής Θεοδόσιος – 1083891
+**Group – University of Patras**  
+- Myriam Mais
+- Theodosios Bourtsouklis
 
 ---
 
